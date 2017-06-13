@@ -2,7 +2,7 @@
 import java.io.*;
 import java.util.*;
 import java.lang.*;
-class Reverse
+class Reversestr
 {
     public static void main(String args[])
     {
